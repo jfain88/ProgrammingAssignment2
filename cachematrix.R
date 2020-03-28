@@ -1,4 +1,4 @@
-##The functions creat a square matrix and then invert the square matrix
+##The functions creates a square matrix and then inverts the square matrix
 
 
 ##makeCacheMatrix first initializes x as a function and sets the default of x
